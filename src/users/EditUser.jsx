@@ -21,8 +21,7 @@ function EditUser() {
 
   useEffect(() => {
     loadUser();
-    [];
-  });
+  }, []);
 
   const onSubmit = async (e) => {
     e.preventDefault();
