@@ -1,4 +1,4 @@
-# React + Vite frontend
+# User Management App
 
 This project consists of a React frontend and a Spring Boot backend, providing a full-stack user management solution.
 
